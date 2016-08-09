@@ -1,0 +1,10 @@
+{
+  "couch": {
+    "host": "http://localhost",
+    "port": 5984,
+    "db": "greenscreen_db"
+  },
+  "server": {
+    "port": 80
+  }
+}
