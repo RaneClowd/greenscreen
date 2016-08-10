@@ -4,7 +4,7 @@
   "description": "Digital signage using Google Chromecast",
   "main": "index.js",
   "scripts": {
-    "start": "node src/server/server.js",
+    "start": "coffee src/server/server.coffee",
     "test": "protractor tests/conf.js",
     "webdriver": "webdriver-manager start",
     "bundle": "node_modules/commonjs-everywhere/bin/cjsify -o public/js/gscreen.js src/client/gscreen.coffee -w",
