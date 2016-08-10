@@ -18,7 +18,7 @@ validations = require "./validations"
 
 module.exports = class CouchDB
   constructor: (config) ->
-    @couch = new cradle.Connection config.host, config.port, 'test', 'aouaoe'
+    @couch = new cradle.Connection config.host, config.port
     @db = @couch.database config.db
     @ensureDbExists =>
       @installDesignDoc()
