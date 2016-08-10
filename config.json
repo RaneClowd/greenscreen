@@ -1,8 +1,8 @@
 {
   "couch": {
-    "host": "https://kskaggs.cloudant.com/",
-    "port": 443,
-    "db": "greenscreen_db"
+    "host": "http://kskaggs:VArZJYI4dz@couchdb.cloudno.de:5984",
+    "port": 5984,
+    "db": "republiccouch"
   },
   "server": {
     "port": 80
