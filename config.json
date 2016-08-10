@@ -2,7 +2,9 @@
   "couch": {
     "host": "https://couchdb.cloudno.de",
     "port": 443,
-    "db": "republiccouch"
+    "db": "republiccouch",
+    "user": "kskaggs",
+    "pass": "VArZJYI4dz"
   },
   "server": {
     "port": 80
