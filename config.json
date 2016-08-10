@@ -1,6 +1,6 @@
 {
   "couch": {
-    "host": "http://localhost",
+    "host": "https://kskaggs.cloudant.com/greenscreen_db",
     "port": 5984,
     "db": "greenscreen_db"
   },
