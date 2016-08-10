@@ -1,7 +1,7 @@
 {
   "couch": {
-    "host": "http://kskaggs:VArZJYI4dz@couchdb.cloudno.de:5984",
-    "port": 5984,
+    "host": "https://kskaggs:VArZJYI4dz@https://couchdb.cloudno.de",
+    "port": 443,
     "db": "republiccouch"
   },
   "server": {
